@@ -46,7 +46,7 @@ const ProductListing = ({ product, index }: ProductListingProps) => {
                               </h3>
                               <ul className="p-4 text-sm">
                                    {specificationArray?.map((spec, i) => (
-                                        <li>
+                                        <li key={i}>
                                              <span className="font-bold">
                                                   {spec.split(":")[0]}:
                                              </span>

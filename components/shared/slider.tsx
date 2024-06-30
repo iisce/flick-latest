@@ -9,20 +9,6 @@ import Image from "next/image";
 import Autoplay from "embla-carousel-autoplay";
 import { cn } from "@/lib/utils";
 
-export function Example() {
-     return (
-          <Carousel
-               plugins={[
-                    Autoplay({
-                         delay: 2000,
-                    }),
-               ]}
-          >
-               // ...
-          </Carousel>
-     );
-}
-
 export function Slider({
      images,
      className,

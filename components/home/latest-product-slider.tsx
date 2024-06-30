@@ -5,24 +5,10 @@ import {
      CarouselContent,
      CarouselItem,
 } from "@/components/ui/carousel";
-import Image from "next/image";
-import Autoplay from "embla-carousel-autoplay";
 import { cn } from "@/lib/utils";
-import { Card, CardContent } from "../ui/card";
-
-export function Example() {
-     return (
-          <Carousel
-               plugins={[
-                    Autoplay({
-                         delay: 2000,
-                    }),
-               ]}
-          >
-               // ...
-          </Carousel>
-     );
-}
+import Autoplay from "embla-carousel-autoplay";
+import Image from "next/image";
+import { Card } from "../ui/card";
 
 export function LatestProductSlider({
      images,
