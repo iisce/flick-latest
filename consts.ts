@@ -324,7 +324,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/304.jpeg",
           price: 10.99,
           description:
-               "MODEL FP304;Power - 30,000mAh;Input - ios /micro/type c;Output - micro/type c/2 usb;Display - digital;Handle - rope;Speed - fast charging 22.5w;Pd - yes;Type c- 2 ways;Quality - Original",
+               "MODEL FP304;Power : 30,000mAh;Input : ios /micro/type c;Output : micro/type c/2 usb;Display : digital;Handle : rope;Speed : fast charging 22.5w;Pd : yes;Type c: 2 ways;Quality : Original",
           categories: ["Power Bank"],
      },
      {
@@ -332,7 +332,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/502.jpeg",
           price: 10.99,
           description:
-               "MODEL FP502;Power - 50,000mAh;Input - ios/micro/type c;Output - micro/4 usb;Display - digital;Handle - rope;Speed - quick charge ;Type c- input ;Quality - Original ;Cable - detachable",
+               "MODEL FP502;Power : 50,000mAh;Input : ios/micro/type c;Output : micro/4 usb;Display : digital;Handle : rope;Speed : quick charge ;Type c: input ;Quality : Original ;Cable : detachable",
           categories: ["Power Bank"],
      },
      {
@@ -340,7 +340,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/100.jpeg",
           price: 10.99,
           description:
-               "MODEL FP100;Power - 10,000mAh;Input - micro/type c/;Output - micro/type c/ ios/2 usb;Handle - Sticky ;Speed - quick charge ;Quality - Original ;Cables - Attached ;Color- white/ black",
+               "MODEL FP100;Power : 10,000mAh;Input : micro/type c/;Output : micro/type c/ ios/2 usb;Handle : Sticky ;Speed : quick charge ;Quality : Original ;Cables : Attached ;Color: white/ black",
           categories: ["Power Bank"],
      },
      {
@@ -348,7 +348,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/204.jpeg",
           price: 10.99,
           description:
-               "MODEL FP204;Power - 20,000mAh;Input - micro/type c;Output - micro/type c/2 usb;Display - light ;Speed - quick charge ;Quality - Original ;Cable - Attached 4;Color - white/black ",
+               "MODEL FP204;Power : 20,000mAh;Input : micro/type c;Output : micro/type c/2 usb;Display : light ;Speed : quick charge ;Quality : Original ;Cable : Attached 4;Color : white/black ",
           categories: ["Power Bank"],
      },
      {
@@ -356,7 +356,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/302.jpeg",
           price: 10.99,
           description:
-               "MODEL FP302;Power - 20,000mAh;Input - micro/type c;Output - micro/2 usb;Display - light ;Speed - quick charge ;Quality - Original ;Color - white/black",
+               "MODEL FP302;Power : 20,000mAh;Input : micro/type c;Output : micro/2 usb;Display : light ;Speed : quick charge ;Quality : Original ;Color : white/black",
           categories: ["Power Bank"],
      },
      {
@@ -364,7 +364,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/fp/102.jpeg",
           price: 10.99,
           description:
-               "MODEL FP102;Power - 10,000mAh;Input - micro/type c;Output - micro/type c/2 usb;Display - light ;Speed - quick charge ;Quality - Original ;Color - white/black ;Design- Smart",
+               "MODEL FP102;Power : 10,000mAh;Input : micro/type c;Output : micro/type c/2 usb;Display : light ;Speed : quick charge ;Quality : Original ;Color : white/black ;Design: Smart",
           categories: ["Power Bank"],
      },
      {
@@ -372,7 +372,7 @@ export const ALL_PRODUCTS = [
           image: "/images/products/pd/01.jpeg",
           price: 10.99,
           description:
-               "Model - PD1;Power - 15,000mAh ;Input - type c ;Output - type c/1 usb ;Pd power- 22.5w;Display - digital ; Speed - fast charging ;Type c - 2 way pd; Quality - Original ; Color - white/black ; Design- Smart",
+               "Model : PD1;Power : 15,000mAh ;Input : type c ;Output : type c/1 usb ;Pd power: 22.5w;Display : digital ; Speed : fast charging ;Type c : 2 way pd; Quality : Original ; Color : white/black ; Design: Smart",
           categories: ["Power Bank"],
      },
      {
@@ -380,7 +380,71 @@ export const ALL_PRODUCTS = [
           image: "/images/products/pd/03.jpeg",
           price: 10.99,
           description:
-               "Model - PD3;Power - 37,000mAh ;Input - micro/type c ;Output - micro/type c/1 usb ;Display - digital ; Speed - fast charging ;Type c - 2 way pd; Quality - Original ; Color - white/black ;Handle - rope; Design- Smart;Cable - attached cables ",
+               "Model : PD3;Power : 37,000mAh ;Input : micro/type c ;Output : micro/type c/1 usb ;Display : digital ; Speed : fast charging ;Type c : 2 way pd; Quality : Original ; Color : white/black ;Handle : rope; Design: Smart;Cable : attached cables ",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "PD60 Power Bank",
+          image: "/images/products/pd60.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 60,000mAh; Input  : type c/micro; Speed : 4 times faster; PD Power: 22.5w; USB Output : 4; PD Fast Charging: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "PD50 Power Bank",
+          image: "/images/products/pd50.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 50,000mAh; Input  : type c/micro; Speed : 4 times faster; PD Power: 22.5w; Output : 4 USB Output; PD Fast Charging: YES; Touch light: YES; Lanyard: YES; In-built Cable: 2; USB Output: 2",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "PD20 Power Bank",
+          image: "/images/products/pd20.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 20,000mAh; Input  : type c/micro; Speed : 4 times faster; PD Power: 22.5w; USB Output : 2; PD Fast Charging: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "PD10 Power Bank",
+          image: "/images/products/pd10.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 10,000mAh; Input  : type c/micro; Speed : 4 times faster; PD Power: 22.5w; USB Output : 2; PD Fast Charging: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "PD30 Power Bank",
+          image: "/images/products/pd30.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 30,000mAh; Input  : type c/micro; Speed : 4 times faster; PD Power: 22.5w; USB Output : 2; PD Fast Charging: YES; Lanyard: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "SP2 Power Bank",
+          image: "/images/products/sp2.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 20,000mAh; Input  : type c/micro; Built-In-Cables : 4; USB Output : 1; LED Touch: 2;Solar Enabled: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "SP3 Power Bank",
+          image: "/images/products/sp3.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 30,000mAh; Input  : type c/micro; Built-In-Cables : 4; USB Output : 1; LED Touch: 2;Solar Enabled: YES",
+          categories: ["Power Bank"],
+     },
+     {
+          name: "FP111 Power Bank",
+          image: "/images/products/fp-111.png",
+          price: 10.99,
+          description:
+               "Model : PD60;Power : 10,000mAh; Input  : type c/micro; Built-In-Cables : 4; USB Output : 1; Supporting Stand: YES; Sticky on Phones/Tablet: YES",
           categories: ["Power Bank"],
      },
 ];
