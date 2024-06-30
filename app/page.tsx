@@ -7,7 +7,7 @@ export default function Home() {
      return (
           <div className="grid">
                <Slider images={CAROUSEL_IMAGES} />
-               <LatestProducts />
+               {/* <LatestProducts /> */}
                <About />
           </div>
      );
