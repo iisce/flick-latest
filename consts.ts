@@ -6,36 +6,20 @@ export const MENU_LINKS = [
 
 export const CAROUSEL_IMAGES = [
      {
-          src: "/images/slides/1.webp",
+          src: "/images/hero/1.jpg",
           alt: "Image 1",
      },
      {
-          src: "/images/slides/2.webp",
+          src: "/images/hero/2.jpg",
           alt: "Image 2",
      },
      {
-          src: "/images/slides/3.webp",
+          src: "/images/hero/3.jpg",
           alt: "Image 3",
      },
      {
-          src: "/images/slides/4.webp",
+          src: "/images/hero/4.jpg",
           alt: "Image 4",
-     },
-     {
-          src: "/images/slides/5.webp",
-          alt: "Image 5",
-     },
-     {
-          src: "/images/slides/6.webp",
-          alt: "Image 6",
-     },
-     {
-          src: "/images/slides/7.webp",
-          alt: "Image 7",
-     },
-     {
-          src: "/images/slides/8.webp",
-          alt: "Image 8",
      },
 ];
 
